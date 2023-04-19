@@ -3,7 +3,7 @@ Terimakasih Sudah mengunjungi Github Saya :)
 --
 Perkenalkan nama saya IB Surya.\
 Saat ini aku sedang menempuh studiku di Universitas Udayana.\
-Saya seorang Mahasiswa yang belajar melalaui platform [Dicoding](https://www.dicoding.com/).\
+Saya seorang Mahasiswa 
 Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/ib-serya-widnyana/)ku ya.
  
 <p align="left">
